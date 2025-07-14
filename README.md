@@ -42,7 +42,7 @@ I currently work as a Full-Stack developer, although I am open to specializing a
 
   <h2>📌 Featured Projects</h2>
   <ul align="left">
-    <li><strong>Web Resume</strong>: <a href="https://josemartinez98.github.io/CV2/" target="_blank"></a></li>
+    <li><strong>Web Resume</strong>: <a href="https://josemartinez98.github.io/CV2/" target="_blank"> visit here!</a></li>
   </ul>
 
   <h2>📈 GitHub Stats</h2>
