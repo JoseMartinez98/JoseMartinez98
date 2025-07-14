@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Ver mi Portafolio</a> |
-    <a href="https://www.linkedin.com/in/josemartinez98/" target="_blank">🔗 LinkedIn</a> |
+    <a href="https://www.linkedin.com/in/JoseMartinezGz98/" target="_blank">🔗 LinkedIn</a> |
     <a href="mailto:josemartinez98dev@gmail.com">📧 Contacto</a>
   </p>
 
