@@ -43,4 +43,4 @@
   </ul>
 
   <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compac
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMartinez98&layout=compac
