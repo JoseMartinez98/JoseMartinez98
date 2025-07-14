@@ -1,48 +1,30 @@
+<!-- Copia esto en tu README.md con etiquetas HTML si quieres más control visual -->
+<div align="center">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm JoseMartinez 98</h1>
+  <h1>👋 Hola, soy José Martínez</h1>
 
+  <p>Desarrollador Full Stack 💻 | Apasionado por la tecnología y el aprendizaje continuo</p>
 
+  <p>
+    <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Ver mi Portafolio</a> |
+    <a href="https://www.linkedin.com/in/josemartinez98/" target="_blank">🔗 LinkedIn</a> |
+    <a href="mailto:josemartinez98dev@gmail.com">📧 Contacto</a>
+  </p>
 
+  <h2>🧰 Tecnologías y herramientas</h2>
+  <p>
+    JavaScript • React • Node.js • Express • MongoDB • HTML • CSS • Git • GitHub
+  </p>
 
+  <h2>📌 Proyectos Destacados</h2>
+  <ul align="left">
+    <li><strong>CV interactivo</strong>: <a href="https://josemartinez98.github.io/CV2/" target="_blank">Ver aquí</a></li>
+    <!-- Agrega más proyectos si lo deseas -->
+  </ul>
 
-## Connect with me ☕ :
+  <h2>📈 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact" alt="Top Langs" />
 
-<br>
-
-[![@JoseMartinezGz98](https://img.icons8.com/fluency/48/000000/linkedin.png "@JoseMartinezGz98")](https://www.linkedin.com/in/JoseMartinezGz98/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@691797404")](tel:691797404) [![@josesw98@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@josesw98@gmail.com")](josesw98@gmail.com)
-
-<br>
-
-## What I am Good at 🧑‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMartinez98&theme=algolia)](https://github.com/JoseMartinez98/github-readme-stats) [!
-
-
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-Last edited on: 30/06/2022
+</div>
