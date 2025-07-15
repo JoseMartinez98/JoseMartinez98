@@ -7,7 +7,7 @@
   <p>
     <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Ver mi Portafolio</a> |
     <a href="https://www.linkedin.com/in/JoseMartinezGz98/" target="_blank">🔗 LinkedIn</a> |
-    <a href="mailto:josemartinez98dev@gmail.com">📧 Contacto</a>
+    <a href="mailto:josesw98@gmail.com">📧 Contacto</a>
   </p>
   <p>About myself, I can say that I am someone interested in ongoing training and learning new skills. I have no problem adapting to change and thrive in dynamic environments. I also value collaboration and interaction with others in any field.
 I am at a stage where I have knowledge and skills that allow me to perform a variety of tasks, some independently and others with guidance. Throughout my advanced training program in Web Application Development, as well as during company internships and my personal projects, I have acquired knowledge and skills in different technologies. This doesn't make me an expert, but it does make me capable of working with them and continuing to perfect them.
