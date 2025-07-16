@@ -7,7 +7,7 @@
   <p>
     <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Check my web resume</a> |
     <a href="https://www.linkedin.com/in/JoseMartinezGz98/" target="_blank">🔗 LinkedIn</a> |
-    <a href="mailto:josesw98@gmail.com">📧 Contacto</a>
+    <a href="mailto:josesw98@gmail.com">📧 Contact</a>
   </p>
   <p>    
     <li><strong>Web Resume</strong>: <a href="https://josemartinez98.github.io/CV2/" target="_blank"> visit here!</a></li>
