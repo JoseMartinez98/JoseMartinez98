@@ -5,7 +5,7 @@
   <p>Full Stack Developer 💻 | Passionate about technology and continuous learning</p>
 
   <p>
-    <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Ver mi Portafolio</a> |
+    <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Check my web resume</a> |
     <a href="https://www.linkedin.com/in/JoseMartinezGz98/" target="_blank">🔗 LinkedIn</a> |
     <a href="mailto:josesw98@gmail.com">📧 Contacto</a>
   </p>
@@ -43,10 +43,7 @@ I currently work as a Full-Stack developer, although I am open to specializing a
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="XAMPP/Apache" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  </p>
-
-  <h2>📌 Featured Projects</h2>
-  
+  </p>  
 
   <h2>📈 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact" alt="Top Langs" />
