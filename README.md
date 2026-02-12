@@ -1,49 +1,69 @@
 <div align="center">
 
-  <h1>👋 Hi, I´m José Martínez👤</h1>
+  <h1>👋 Hi, I'm José Martínez 👤</h1>
 
-  <p>Full Stack Developer 💻 | Passionate about technology and continuous learning</p>
+  <p><strong>Full Stack Developer 💻 | Cybersecurity Enthusiast 🛡️</strong><br>
+  Passionate about building secure applications and continuous learning</p>
 
   <p>
-    <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Check my web resume</a> |
+    <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Web Resume</a> |
     <a href="https://www.linkedin.com/in/JoseMartinezGz98/" target="_blank">🔗 LinkedIn</a> |
-    <a href="mailto:josesw98@gmail.com">📧 Contact</a>
+    <a href="mailto:josesw98@gmail.com">📧 Contact Me</a>
   </p>
-  <p>    
-    <li><strong>Web Resume</strong>: <a href="https://josemartinez98.github.io/CV2/" target="_blank"> visit here!</a></li>
+
+  <hr />
+
+  <p align="left">
+  I am a developer interested in ongoing training and learning new skills, with a strong focus on <b>system security and defensive/offensive tools</b>. I thrive in dynamic environments and value collaboration to build robust solutions.
   </p>
-  <p>About myself, I can say that I am someone interested in ongoing training and learning new skills. I have no problem adapting to change and thrive in dynamic environments. I also value collaboration and interaction with others in any field.
-I am at a stage where I have knowledge and skills that allow me to perform a variety of tasks, some independently and others with guidance. Throughout my advanced training program in Web Application Development, as well as during company internships and my personal projects, I have acquired knowledge and skills in different technologies. This doesn't make me an expert, but it does make me capable of working with them and continuing to perfect them.
-I currently work as a Full-Stack developer, although I am open to specializing and professionalizing in both the Back-end and Front-end areas, as both appeal to me.</p>
   
-  <h2>🧰 Technologies and tools</h2>
-
-  <h3>Languages:</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <p align="left">
+  Currently, I work as a <b>Full-Stack Developer</b>, but I am deeply involved in the <b>Cybersecurity</b> field, applying best practices and using specialized tools to ensure integrity and privacy in every project.
   </p>
 
-  <h3>Frameworks:</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/>
-  </p>
-  <h3>DATABSE</h3>
-  <P>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="40" height="40"/>
-  </P>
-  <h3>Other tools:</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="XAMPP/Apache" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  </p>  
+  <hr />
+
+  <h2>🧰 Technologies and Tools</h2>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>💻 Development</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="35"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="35"/>
+        <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="35"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="35"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>🛡️ Cybersecurity</h3>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Network-Dark.svg" alt="Nmap" width="35" title="Nmap/Networking"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35"/>
+        <p>
+          <code>Nmap</code> • <code>Metasploit</code><br>
+          <code>Nagios</code> • <code>OpenSSL</code><br>
+          <code>Wireshark</code>
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🛠️ Other Tools</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="35"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="35"/>
+      </td>
+    </tr>
+  </table>
+
+  <br />
 
   <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=radical" alt="Top Langs" />
+
+</div>
