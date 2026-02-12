@@ -45,14 +45,13 @@ with a defensive mindset to ensure code integrity.
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=tokyonight&count_private=true" alt="José's Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="José's Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=tokyonight&hide_progress=false&cache_seconds=1800" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josemartinez98&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 
 *“The only way to learn a new programming language is by writing programs in it.”*
