@@ -28,6 +28,7 @@ with a defensive mindset to ensure code integrity.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
 **Cybersecurity Arsenal**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2496ED?style=flat-square&logo=metasploit&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
@@ -45,9 +46,9 @@ with a defensive mindset to ensure code integrity.
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="José's Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=tokyonight&hide_progress=false&cache_seconds=1800" alt="Top Languages" height="195px" />
-</p>
+  <img src="https://github-readme-stats-git-masterhstwranglers-projects.vercel.app/api?username=josemartinez98&show_icons=true&theme=tokyonight&count_private=true" alt="José's Stats" height="195px" />
+  <img src="https://github-readme-stats-git-masterhstwranglers-projects.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
+</p></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josemartinez98&theme=tokyonight" alt="GitHub Streak" />
