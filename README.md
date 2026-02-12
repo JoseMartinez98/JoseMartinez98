@@ -1,69 +1,41 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm José Martínez 👤</h1>
+# 👋 Hi, I'm José Martínez
+### 🚀 Full Stack Developer | 🛡️ Cybersecurity Specialist
 
-  <p><strong>Full Stack Developer 💻 | Cybersecurity Enthusiast 🛡️</strong><br>
-  Passionate about building secure applications and continuous learning</p>
+[![Website](https://img.shields.io/badge/🌐_Web_Resume-informational?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josemartinez98.github.io/CV2/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JoseMartinezGz98/)
+[![Email](https://img.shields.io/badge/📧_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josesw98@gmail.com)
 
-  <p>
-    <a href="https://josemartinez98.github.io/CV2/" target="_blank">🌐 Web Resume</a> |
-    <a href="https://www.linkedin.com/in/JoseMartinezGz98/" target="_blank">🔗 LinkedIn</a> |
-    <a href="mailto:josesw98@gmail.com">📧 Contact Me</a>
-  </p>
+---
 
-  <hr />
+### 👤 About Me
+I am a proactive developer focused on **continuous learning** and **secure development**. 
+I thrive in dynamic environments, blending my skills in building scalable web applications 
+with a defensive mindset to ensure code integrity.
 
-  <p align="left">
-  I am a developer interested in ongoing training and learning new skills, with a strong focus on <b>system security and defensive/offensive tools</b>. I thrive in dynamic environments and value collaboration to build robust solutions.
-  </p>
-  
-  <p align="left">
-  Currently, I work as a <b>Full-Stack Developer</b>, but I am deeply involved in the <b>Cybersecurity</b> field, applying best practices and using specialized tools to ensure integrity and privacy in every project.
-  </p>
+---
 
-  <hr />
+### 🛠️ Tech Stack & Tools
 
-  <h2>🧰 Technologies and Tools</h2>
+**Core Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>💻 Development</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="35"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="35"/>
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="35"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="35"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>🛡️ Cybersecurity</h3>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Network-Dark.svg" alt="Nmap" width="35" title="Nmap/Networking"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35"/>
-        <p>
-          <code>Nmap</code> • <code>Metasploit</code><br>
-          <code>Nagios</code> • <code>OpenSSL</code><br>
-          <code>Wireshark</code>
-        </p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🛠️ Other Tools</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="35"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="35"/>
-      </td>
-    </tr>
-  </table>
+**Cybersecurity Arsenal**
+![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2496ED?style=flat-square&logo=metasploit&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-4D9312?style=flat-square&logo=nagios&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-  <br />
-
-  <h2>📈 GitHub Stats</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=radical" alt="Top Langs" />
-
-</div>
+**Workflow & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Apache](
