@@ -46,8 +46,8 @@ with a defensive mindset to ensure code integrity.
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de José" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=tokyonight" alt="Lenguajes de José" height="195px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=josemartinez98&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de José" height="195px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=tokyonight" alt="Lenguajes de José" height="195px" />
 </p>
 
 <p align="center">
