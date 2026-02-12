@@ -38,4 +38,23 @@ with a defensive mindset to ensure code integrity.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Apache](
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+---
+
+### 📈 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josemartinez98&show_icons=true&theme=tokyonight&count_private=true" alt="José's Stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinez98&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josemartinez98&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+*“The only way to learn a new programming language is by writing programs in it.”*
+
+</div>
