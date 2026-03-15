@@ -3,7 +3,7 @@
 # 👋 Hi, I'm José Martínez
 ### 🚀 Full Stack Developer | 🛡️ Cybersecurity Specialist
 
-[![Website](https://img.shields.io/badge/🌐_Web_Resume-informational?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josemartinez98.github.io/CV2/)
+[![Website](https://img.shields.io/badge/🌐_Web_Resume-informational?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jamgdeveloper.es/)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JoseMartinezGz98/)
 [![Email](https://img.shields.io/badge/📧_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josesw98@gmail.com)
 
